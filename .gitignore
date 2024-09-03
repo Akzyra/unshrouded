@@ -3,4 +3,5 @@
 .idea/
 .vscode/
 
-reflection_types_*
+game/
+reflection_*
