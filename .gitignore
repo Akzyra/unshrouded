@@ -1,0 +1,22 @@
+# game files
+*.dat
+*.dll
+*.exe
+*.kfc
+enshrouded_local.json
+
+# modding
+export/
+unpacked/
+
+# python
+.venv/
+__pycache__/
+*.py[codz]
+*$py.class
+uv.lock
+
+# other
+*.log
+*.bak
+*.png

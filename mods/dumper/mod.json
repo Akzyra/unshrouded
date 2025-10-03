@@ -1,0 +1,15 @@
+{
+  "id": "dumper",
+  "name": "dumper",
+  "version": "0.3.0",
+  "capabilities": [
+    "export"
+  ],
+  "dependencies": [],
+  "authors": [
+    ""
+  ],
+  "description": null,
+  "license": null,
+  "icon": null
+}
